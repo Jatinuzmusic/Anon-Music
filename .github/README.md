@@ -1,5 +1,5 @@
-<h2 align="center">
-    ──「 Sukoon ダ Music 」──
+<h2 𝙹𝚊𝚝𝚒𝚗 𝚇 𝙼𝚞𝚜𝚒𝚌🌺="center">
+    ──「 🌹🇯ᴜᴋᴇ x 🇲ᴜꜱɪᴄ 🌹 」──
 </h2>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/nillcoderbot/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Jatinuzmusic/Anon-Music/master/)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
