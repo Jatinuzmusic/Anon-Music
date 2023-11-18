@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/nillcoderbot/AnonXMusic",
+    "https://github.com/Jatinuzmusic/Anon-Music/master/",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -61,7 +61,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 
-# Get your pyrogram v2 session from @StringFatherBot on Telegram
+# Get your pyrogram v2 session from @Jatinuzmusic_bot on Telegram
 STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-STATS_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-STREAM_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/0b4761961d6bf188e59c8.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/73efddc6cc2de542938e6.jpg"
 
 
 def time_to_seconds(time):
@@ -106,11 +106,11 @@ DURATION_LIMIT = int(time_to_seconds(f"{DURATION_LIMIT_MIN}:00"))
 if SUPPORT_CHANNEL:
     if not re.match("(?:http|https)://", SUPPORT_CHANNEL):
         raise SystemExit(
-            "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://https://t.me/sub4subgroupethical"
         )
 
 if SUPPORT_CHAT:
     if not re.match("(?:http|https)://", SUPPORT_CHAT):
         raise SystemExit(
-            "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://https://https://t.me/jatinzx"
         )
